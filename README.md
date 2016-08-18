@@ -1,2 +1,2 @@
 # comfrey
-Drupal 8 production theme for companionmouse
+Drupal 8 production theme for companionmouse.
